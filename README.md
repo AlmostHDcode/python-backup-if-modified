@@ -27,7 +27,7 @@ backup directory: /path/to/projects-backup
  * max number of backups to keep can be modified in the delete_old_backups function, or this function can be commented out if you don't want any backup to be deleted
  * example: if max number of backups is set to 10, then all of the oldest backups will be deleted until only the most recent 10 remain
 
-# usage
+### usage
 source_dir1 = "/path/to/source/dir1"\
 source_dir2 = "/path/to/source/dir2"\
 source_dir3 = "/path/to/source/dir3"\
